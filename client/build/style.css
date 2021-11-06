@@ -1,0 +1,35 @@
+body{
+    font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace !important;
+     /* background-color: #001d3d; */
+     background-image: linear-gradient(to right, rgb(12, 13, 12), rgb(87, 86, 113));;
+     /* position: relative; */
+     /* height: 100%;
+     width: 100%; */
+     position: relative;
+     margin: 0;
+     padding-bottom: 6rem;
+     min-height: 100%;
+     color:#b9c5b8; ;
+}
+
+li a{
+    list-style-type: square;
+    line-height: 3 vh;
+    color: #b9c5b8;
+    font-weight: 600;
+    text-decoration: none;
+    margin: 1px;
+    font-size: 2.5vh;
+    font-weight:lighter;
+    padding-bottom: 1rem;
+    text-indent: -1em;
+}
+
+li{
+    margin-left: 3vh;
+}
+h1{
+    margin: 0;
+    margin-left: 33px;
+    margin-top: 5vh;
+}
