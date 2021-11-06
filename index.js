@@ -40,6 +40,7 @@ app.get("/myacc",async (req,res)=>{
         // console.log(links);
         // console.log(litags);
         res.send({questions});
+        
         console.log("succesfully gathered");
         
 	} catch (error) {
